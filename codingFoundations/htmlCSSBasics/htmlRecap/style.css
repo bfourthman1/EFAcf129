@@ -1,0 +1,9 @@
+body {
+    background-color: wheat;
+}
+
+.wrapper {
+    border-color: burlywood;
+    border-style: solid;
+    border-width: medium;
+}
